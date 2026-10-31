@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FF COMMUNITY</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="directory">Directory</string>
+    <string name="squad_finder">Squads</string>
+    <string name="profile">Profile</string>
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+</resources>
